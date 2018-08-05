@@ -1,0 +1,1 @@
+Aplicação desenvolvida para a disciplina Redes de Computadores, da UFMG. A aplicação consiste em um sistema que permita o usuário a enviar arquivos de texto para um “pasta pessoal” e solicitar arquivos quando desejar, sendo possível registrar novos usuários. A compunicação é feita através do protocolo TCP. 
